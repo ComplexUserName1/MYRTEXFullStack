@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYRTEXTestTask.API", "MYRTEXTestTask.API\MYRTEXTestTask.API.csproj", "{D43D507C-4448-4570-8C82-0189252EADDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D43D507C-4448-4570-8C82-0189252EADDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43D507C-4448-4570-8C82-0189252EADDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43D507C-4448-4570-8C82-0189252EADDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43D507C-4448-4570-8C82-0189252EADDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23852C89-3FA3-48FB-B2A0-ED6F682AD987}
+	EndGlobalSection
+EndGlobal
